@@ -1,7 +1,7 @@
 [submodule "BnkExtractor"]
 	path = Dependencies/BnkExtractor
-	url = https://github.com/mikeoliphant/BnkExtractor
+	url = https://github.com/weblings/BnkExtractor
 [submodule "Rocksmith2014PsarcLib"]
 	path = Dependencies/Rocksmith2014PsarcLib
-	url = https://github.com/mikeoliphant/Rocksmith2014PsarcLib
+	url = https://github.com/weblings/Rocksmith2014PsarcLib
 
